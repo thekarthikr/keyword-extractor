@@ -31,7 +31,9 @@ const KeywordsModal = ({ keywords, loading, isOpen, closeModal }) => {
           </ModalBody>
 
           <ModalFooter>
-            <Button mr={3} onClick={closeModal}></Button>
+            <Button mr={3} onClick={closeModal}>
+              Close
+            </Button>
           </ModalFooter>
         </ModalContent>
       </Modal>
