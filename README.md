@@ -24,24 +24,6 @@ To install and run the app locally, follow these steps:
 - Vite
 - Rapid API
 
-## Installation
-
-To install and run the app locally, follow these steps:
-
-1. Clone this repository: `git clone https://github.com/your-username/keyword-extractor.git`
-2. Navigate to the project directory: `cd keyword-extractor`
-3. Install the dependencies: `npm install`
-4. Create a Rapid API account and obtain an API key (you can sign up here: https://rapidapi.com/)
-5. Create a `.env` file in the root directory of the project and add your Rapid API key: `REACT_APP_API_KEY=your-api-key-here`
-6. Start the development server: `npm run dev`
-
-## Technologies Used
-
-- React JS
-- Chakra UI
-- Vite
-- Rapid API
-
 ## Credits
 
 - The keyword extraction functionality is powered by Rapid API [Rapid-API](https://rapidapi.com/ayfie-ayfie-default/api/keyword-extractor/).
