@@ -24,16 +24,6 @@ To install and run the app locally, follow these steps:
 - Vite
 - Rapid API
 
-## Credits
-
-- The keyword extraction functionality is powered by Rapid API (# Keyword Extractor App
-
-Keyword Extractor is a simple web application that allows you to extract relevant keywords from any text you provide. It uses a third-party API service called Rapid API to fetch the keywords and displays them in a clean and organized way. This app was created using React JS, Chakra UI, and Vite.
-
-## How to Use
-
-To use Keyword Extractor, simply paste your text into the input field on the homepage and click the "Extract Keywords" button. The app will then fetch the keywords from Rapid API and display them on the page.
-
 ## Installation
 
 To install and run the app locally, follow these steps:
