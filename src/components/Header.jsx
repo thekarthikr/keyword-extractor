@@ -8,7 +8,7 @@ const Header = () => {
       </Heading>
 
       <Text>
-        Paste your text below, and we'll do my best to extract the keywords for
+        Paste your text below, and we'll do our best to extract the keywords for
         you.
       </Text>
     </>
