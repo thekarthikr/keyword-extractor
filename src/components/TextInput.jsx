@@ -15,7 +15,7 @@ const TextInput = ({ extractKeywords }) => {
         isClosable: true,
       });
     } else {
-      extractKeywords(text);
+      extractKeywords(text.replace(/\s+/g, " "));
     }
   };
 
